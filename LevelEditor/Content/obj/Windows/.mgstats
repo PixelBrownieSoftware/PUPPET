@@ -1,0 +1,3 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/hamza/Own Games/Custom/C#/Tests/LevelEditor/LevelEditor/Content/pinkroomtileset2.png","C:/Users/hamza/Own Games/Custom/C#/Tests/LevelEditor/LevelEditor/Content/bin/Windows/pinkroomtileset2.xnb","TextureProcessor","Texture2DContent",1324,19285,0.1149474
+"C:/Users/hamza/Own Games/Custom/C#/Tests/LevelEditor/LevelEditor/Content/wood.png","C:/Users/hamza/Own Games/Custom/C#/Tests/LevelEditor/LevelEditor/Content/bin/Windows/wood.xnb","TextureProcessor","Texture2DContent",196,1685,0.0089955
